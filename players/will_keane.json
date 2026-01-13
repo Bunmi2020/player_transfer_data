@@ -1,0 +1,19 @@
+
+{
+  "player_name": "Will Keane",
+  "filename": "will_keane",
+  "current_club": "Preston",
+  "last_updated": "2024-01-01T10:00:00Z",
+  "trending_score": 1,
+  "interested_clubs": ["Reading"],
+  "timeline": [
+    {
+      "date": "2024-01-01T10:00:00Z",
+      "event": "Reading are set to sign Will Keane from Preston on loan.",
+      "interested_clubs": ["Reading"],
+      "current_club": "Preston",
+      "type": "Loan",
+      "status": "Rumour"
+    }
+  ]
+}
