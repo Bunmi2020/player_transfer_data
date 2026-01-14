@@ -1,0 +1,30 @@
+{
+  "filename": "filip_jorgensen",
+  "current_club": "Chelsea",
+  "player_name": "Filip Jörgensen",
+  "interested_clubs": [
+    {
+      "club": "West Ham United",
+      "probability": 35
+    }
+  ],
+  "timeline": [
+    {
+      "source": {
+        "avatar": [
+          "https://pbs.twimg.com/profile_images/1691456722365022208/z6y6b6_6_400x400.jpg"
+        ],
+        "link": [
+          "https://www.yardbarker.com/soccer/articles/chelsea_player_open_to_move_as_west_ham_make_enquiry_over_january_transfer"
+        ],
+        "name": [
+          "CaughtOffside",
+          "Fabrizio Romano"
+        ]
+      },
+      "summary": "West Ham have made enquiries for Chelsea goalkeeper Filip Jörgensen, who is reportedly considering a January exit to secure playing time ahead of the World Cup.",
+      "id": "update_init_001"
+    }
+  ],
+  "trending_score": 0
+}

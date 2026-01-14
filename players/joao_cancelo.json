@@ -1,0 +1,25 @@
+{
+  "filename": "joao_cancelo",
+  "current_club": "Barcelona",
+  "player_name": "João Cancelo",
+  "interested_clubs": [],
+  "timeline": [
+    {
+      "source": {
+        "avatar": [
+          "https://pbs.twimg.com/profile_images/1612759972365111297/gZ9vM8-D_400x400.jpg"
+        ],
+        "link": [
+          "https://www.foxsports.com/stories/soccer/barcelona-re-announce-signing-of-joao-cancelo"
+        ],
+        "name": [
+          "FC Barcelona Official",
+          "FOX Sports"
+        ]
+      },
+      "summary": "Official: João Cancelo has re-joined FC Barcelona on loan from Al-Hilal for the remainder of the 2025-26 season after a brief paperwork delay.",
+      "id": "update_init_001"
+    }
+  ],
+  "trending_score": 0
+}

@@ -1,0 +1,25 @@
+{
+  "filename": "oumar_ngom",
+  "current_club": "Lecce",
+  "player_name": "Oumar Ngom",
+  "interested_clubs": [],
+  "timeline": [
+    {
+      "source": {
+        "avatar": [
+          "https://pbs.twimg.com/profile_images/1613524584282832898/4Z4j4z4__400x400.jpg"
+        ],
+        "link": [
+          "https://www.transfermarkt.com/oumar-ngom/profil/spieler/980575"
+        ],
+        "name": [
+          "Transfermarkt",
+          "Lecce Official"
+        ]
+      },
+      "summary": "Done Deal: Oumar Ngom has officially signed for Serie A side Lecce from Estrela da Amadora on a permanent transfer.",
+      "id": "update_init_001"
+    }
+  ],
+  "trending_score": 0
+}
